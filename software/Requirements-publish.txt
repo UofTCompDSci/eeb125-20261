@@ -1,0 +1,2 @@
+jupyter-book==1.0.4.post1
+pydata-sphinx-theme==0.13.1
