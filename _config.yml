@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Computation and Data Science for the Life and Physical Sciences
-copyright: "2025"
+copyright: "2026"
 author: EEB125 Instructors
 # logo: logo.png
 
@@ -39,7 +39,7 @@ launch_buttons:
   jupyterhub_url: "https://jupyter.utoronto.ca"
 
 repository:
-  url: https://github.com/UofTCompDSci/eeb125-20251
+  url: https://github.com/UofTCompDSci/eeb125-20261
   branch: main
 
 parse:
