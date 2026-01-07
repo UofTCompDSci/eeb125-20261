@@ -22,7 +22,7 @@ parts:
 
   - caption: Week 1
     chapters:
-    - url: https://q.utoronto.ca/files/419467/download?download_frd=1 
+    - url: https://q.utoronto.ca/files/41442074/download?download_frd=1 
       title: Prof. Parins-Fukuchi's Slides
     - file: weekly-materials/week01/homework/Homework_1.ipynb
       title: Week 1 Homework
