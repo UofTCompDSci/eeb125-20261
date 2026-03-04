@@ -63,6 +63,7 @@ parts:
       title: Final Project Proposal Instructions
     - file: project/project_instructions.ipynb
       title: Final Project Instructions
+  - caption: Week 8
     chapters:
     - file: weekly-materials/week08/lecture/lecture8.ipynb
       title: Prof. Reid's notebook
