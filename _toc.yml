@@ -80,4 +80,6 @@ parts:
     chapters:
     - file: weekly-materials/week10/lecture/lecture10.ipynb
       title: Prof. PF's notebook
+    - file: weekly-materials/week10/homework/Homework_10.ipynb
+      title: Week 10 Homework
 
