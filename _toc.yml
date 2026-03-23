@@ -82,4 +82,8 @@ parts:
       title: Prof. PF's notebook
     - file: weekly-materials/week10/homework/Homework_10.ipynb
       title: Week 10 Homework
+  - caption: Week 11
+    chapters:
+    - file: weekly-materials/week11/lecture/lecture11.ipynb
+      title: Prof. PF's notebook
 
