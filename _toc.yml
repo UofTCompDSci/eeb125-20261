@@ -63,6 +63,8 @@ parts:
       title: Final Project Proposal Instructions
     - file: project/project_instructions.ipynb
       title: Final Project Instructions
+    - file: project/eeb125_project_slides.ipynb
+      title: Project template notebook
   - caption: Week 8
     chapters:
     - file: weekly-materials/week08/lecture/lecture8.ipynb
@@ -86,4 +88,6 @@ parts:
     chapters:
     - file: weekly-materials/week11/lecture/lecture11.ipynb
       title: Prof. PF's notebook
+    - file: weekly-materials/week11/homework/Homework_11.ipynb
+      title: Week 11 Homework
 
