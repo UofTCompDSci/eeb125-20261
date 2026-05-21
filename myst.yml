@@ -1,0 +1,23 @@
+version: 1
+project:
+  title: EEB 125 Winter 2027
+  toc:
+    - file: index.md
+      title: Home page
+    - title: "📓 Open notebooks in JupyterHub"
+      url: "https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUofTCompDSci%2Fggr274-20271&urlpath=tree%2Fggr274-20271%2F&branch=main"
+    - title: Course Syllabus
+      file: eeb125_syllabus.md
+    - title: Resources
+      children:
+        - file: guides/jupyterhub_guide.ipynb
+        - file: guides/markus_guide.ipynb
+        - file: guides/python_quick_reference.ipynb
+site:
+  template: book-theme
+  title: EEB 125 Winter 2027
+  options:
+    logo_text: EEB 125 Winter 2027
+    folders: true
+    primary_sidebar_footer: primary-sidebar-footer.md
+    style: ./custom.css

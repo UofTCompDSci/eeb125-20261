@@ -1,4 +1,4 @@
-TERM=20261
+TERM=20271
 
 # By default, build local versions of book
 all: book
@@ -13,4 +13,4 @@ clean-publish-source:
 	rm -rf _publish
 
 book-publish:
-	jupyter-book build .
+	jupyter-book build 
