@@ -1,0 +1,93 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: jupyter-book/index
+parts:
+  - caption: Quick Links
+    chapters:
+    - file: syllabus/eeb125_syllabus.ipynb
+      title: Course Syllabus
+    - url: https://q.utoronto.ca/courses/419467/announcements
+      title: Announcements
+    - url: https://piazza.com/
+      title: Piazza
+
+  - caption: Resources
+    chapters:
+    - file: guides/jupyterhub_guide.ipynb
+      title: JupyterHub Guide
+    - file: guides/markus_guide.ipynb
+      title: MarkUs Guide
+
+  - caption: Week 1
+    chapters:
+    - url: https://q.utoronto.ca/files/41442074/download?download_frd=1 
+      title: Prof. Parins-Fukuchi's Slides
+    - file: weekly-materials/week01/lecture/week1_notes_kr.ipynb
+      title: Prof. Reid's notebook
+    - file: weekly-materials/week01/homework/Homework_1.ipynb
+      title: Week 1 Homework
+
+  - caption: Week 2
+    chapters:
+    - file: weekly-materials/week02/lecture/lecture_week2.ipynb
+      title: Prof. PF's notebook
+    - file: weekly-materials/week02/homework/Homework_2.ipynb
+      title: Week 2 Homework
+  - caption: Week 3
+    chapters:
+    - file: weekly-materials/week03/lecture/lecture3.ipynb
+      title: Prof. PF's notebook
+    - file: weekly-materials/week03/homework/Homework_3.ipynb
+      title: Week 3 Homework
+  - caption: Week 4
+    chapters:
+    - file: weekly-materials/week04/lecture/lecture4.ipynb
+      title: Prof. PF's notebook
+    - file: weekly-materials/week04/homework/Homework_4.ipynb
+      title: Week 4 Homework
+  - caption: Week 5
+    chapters:
+    - file: weekly-materials/week05/lecture/lecture5.ipynb
+      title: Prof. PF's notebook
+    - file: weekly-materials/week05/homework/Homework_5.ipynb
+      title: Week 5 Homework
+  - caption: Week 7
+    chapters:
+    - file: weekly-materials/week07/lecture/lecture7.ipynb
+      title: Prof. Reid's notebook
+    - file: weekly-materials/week07/homework/Homework_7.ipynb
+      title: Week 7 Homework
+    - file: project/project_proposal.ipynb
+      title: Final Project Proposal Instructions
+    - file: project/project_instructions.ipynb
+      title: Final Project Instructions
+    - file: project/eeb125_project_slides.ipynb
+      title: Project template notebook
+  - caption: Week 8
+    chapters:
+    - file: weekly-materials/week08/lecture/lecture8.ipynb
+      title: Prof. Reid's notebook
+    - file: weekly-materials/week08/homework/Homework_8.ipynb
+      title: Week 8 Homework
+
+  - caption: Week 9
+    chapters:
+    - file: weekly-materials/week09/lecture/lecture9-solution.ipynb
+      title: Prof. Reid's notebook
+    - file: weekly-materials/week09/homework/Homework_9.ipynb
+      title: Week 9 Homework
+  - caption: Week 10
+    chapters:
+    - file: weekly-materials/week10/lecture/lecture10.ipynb
+      title: Prof. PF's notebook
+    - file: weekly-materials/week10/homework/Homework_10.ipynb
+      title: Week 10 Homework
+  - caption: Week 11
+    chapters:
+    - file: weekly-materials/week11/lecture/lecture11.ipynb
+      title: Prof. PF's notebook
+    - file: weekly-materials/week11/homework/Homework_11.ipynb
+      title: Week 11 Homework
+
